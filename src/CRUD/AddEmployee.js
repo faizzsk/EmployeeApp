@@ -82,6 +82,7 @@ return(
       <div className="w-75 mx-auto shadow p-5">
 <br></br>
         <h2 className="text-center bg-white mb-4">Add Employee</h2>
+		<h1></h1>
         <form onSubmit={e=>submitHand(e)}>
           <div className="form-group">
             <input
